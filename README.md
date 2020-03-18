@@ -50,7 +50,17 @@ Give a ⭐️ if this project helped you!
 ## References
 
 ### General
-- https://medium.com/free-code-camp/structuring-a-flask-restplus-web-service-for-production-builds-c2ec676de563
+- https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html
+
+### CLI
+ - https://docs.python-guide.org/scenarios/cli/
+ - https://codeburst.io/building-beautiful-command-line-interfaces-with-python-26c7e1bb54df
+
+ ### Plugins
+ - https://alysivji.github.io/simple-plugin-system.html
+ - https://stackoverflow.com/questions/932069/building-a-minimal-plugin-architecture-in-python
+ - https://www.reddit.com/r/Python/comments/arv0sl/implementing_a_plugin_architecture_in_python/
+ - https://packaging.python.org/guides/creating-and-discovering-plugins/
 
  ### Testing
  - https://realpython.com/python-testing/
