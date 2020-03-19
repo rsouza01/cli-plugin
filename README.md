@@ -44,8 +44,6 @@ Or
 (env) $ export PYTHONPATH=$PYTHONPATH:./cli_plugin/ && ./bin/cli_plugin
 ```
 
-
-
 ## Testing
 
 To run unit tests:
