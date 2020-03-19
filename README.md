@@ -1,5 +1,4 @@
-CLI executable with plugin architecture (cli-plugin)
-=====================================================
+# CLI executable with plugin architecture (cli-plugin)
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#)
