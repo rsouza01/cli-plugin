@@ -2,6 +2,7 @@
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=rsouza01_cli-plugin&metric=alert_status)](https://sonarcloud.io/dashboard?id=rsouza01_cli-plugin)
 
 CLI executable with plugin architecture
 
