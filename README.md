@@ -25,6 +25,26 @@ $ source env.sh
 (env) $ pip3 install -r requirements.txt
 ```
 
+## Running
+
+Point your PYTHONPATH correctly
+
+```console
+(env) $ PYTHONPATH=$PYTHONPATH:./cli_plugin/
+```
+
+Then run
+
+```console
+(env) $ PYTHONPATH=$PYTHONPATH:./cli_plugin/
+```
+Or
+
+```console
+(env) $ export PYTHONPATH=$PYTHONPATH:./cli_plugin/ && ./bin/cli_plugin
+```
+
+
 
 ## Testing
 
